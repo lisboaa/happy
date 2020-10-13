@@ -54,10 +54,12 @@
     flex-direction: column;
 
     text-align: right;
+    margin: 0px 10px 0px 0px;
 }
 
 .content-wrapper .location strong {
     font-weight: 800;
+    padding-right: 10px;
 }
 
 .content-wrapper .enter-app {
