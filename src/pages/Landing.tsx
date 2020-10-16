@@ -3,7 +3,6 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 import { FiArrowRight } from 'react-icons/fi'
 import '../styles/pages/landing.css';
-import ilustrate from '../img/Ilustra02.svg';
 import logo from '../img/Logo.svg';
 
 function Landin() {
