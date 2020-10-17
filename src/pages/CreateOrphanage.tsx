@@ -3,7 +3,7 @@ import { Map, Marker, TileLayer } from 'react-leaflet';
 import { FiPlus } from 'react-icons/fi';
 
 import '../styles/pages/create-orphanage.css';
-import Sidebar from "../components/sidbar";
+import Sidebar from "../components/Sidbar";
 import mapIcon from "../utils/mapIcon";
 
 export default function CreateOrphanage() {
